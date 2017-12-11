@@ -14,6 +14,6 @@ module.exports = function(grunt) {
     });
 
     grunt.config('helpers', helpers);
-    //grunt.registerTask('default', ['help']);
-    grunt.registerTask('heroku', ['help']);
+    grunt.registerTask('default', ['help']);
+    //grunt.registerTask('heroku', ['help']);
 };
