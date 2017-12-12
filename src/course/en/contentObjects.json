@@ -6,7 +6,7 @@
 		"_classes": "",
 		"title": "Javacript Quiz",
 		"displayTitle": "Javacript Quiz",
-		"body": "Click below to take the Javacript quiz. <br /><br /> Questions taken from <a href='http://davidshariff.com/js-quiz/'>http://davidshariff.com/js-quiz/</a>",
+		"body": "Test your Javascript knowledge. <br /><br /> Questions taken from <a href='http://davidshariff.com/js-quiz/'>http://davidshariff.com/js-quiz/</a>",
 		"_graphic": {
 			"src": "course/en/images/jsLogo.svg",
 			"alt": "Placeholder graphic."

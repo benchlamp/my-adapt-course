@@ -18,45 +18,5 @@
         "displayTitle": "",
         "body": "",
         "_trackingId": 6
-    },
-    {
-        "_id": "b-45",
-        "_parentId": "a-05",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-45",
-        "displayTitle": "",
-        "body": "",
-        "_trackingId": 8
-    },
-    {
-        "_id": "b-50",
-        "_parentId": "a-05",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-50",
-        "displayTitle": "",
-        "body": "",
-        "_trackingId": 9
-    },
-    {
-        "_id": "b-55",
-        "_parentId": "a-05",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-55",
-        "displayTitle": "",
-        "body": "",
-        "_trackingId": 10
-    },
-    {
-        "_id": "b-60",
-        "_parentId": "a-05",
-        "_type": "block",
-        "_classes": "",
-        "title": "b-60",
-        "displayTitle": "",
-        "body": "",
-        "_trackingId": 11
     }
 ]
